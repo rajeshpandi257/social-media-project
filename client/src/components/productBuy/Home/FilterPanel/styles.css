@@ -1,0 +1,14 @@
+.label {
+  margin-bottom: 0.8rem;
+  font-weight: 600;
+}
+.label-group {
+  margin-top: 10px;
+}
+.input-group {
+  margin-bottom: 2rem;
+  display: block;
+}
+.label-range {
+  margin-bottom: 2.5rem;
+}
